@@ -1,4 +1,4 @@
 a-La commande git pull permet de recuperer les modifications du depot distant tandisque git fetch recupere l'historique des version
 b-Git 
 c-git branch -r
-d-git log [nom fichier]
+d-git log [nom fichier].
